@@ -1,2 +1,2 @@
 # Epic-Mail
-Messaging app
+Messaging app by Jerome
