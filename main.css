@@ -1,0 +1,39 @@
+div {
+  color: blue;
+  background-color: white;
+}
+
+.sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+input {
+  display: block;
+  height: 3em;
+  width: 100%;
+  margin: 1em 0;
+  padding: 0.5em;
+  font-size: 1em;
+}
+
+button {
+  display: block;
+  height: 3em;
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1em;
+  background-color: blue;
+  color: white;
+}
+
+form {
+  width: 20em;
+}
+
+* {
+  box-sizing: border-box;
+}
