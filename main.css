@@ -1,5 +1,10 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #555555;
+}
+
 div {
-  color: blue;
+  color: black;
   background-color: white;
 }
 
@@ -36,4 +41,18 @@ form {
 
 * {
   box-sizing: border-box;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  color:blue;
+}
+
+.register{
+  margin: 90px 90px 90px 90px;
+  font-weight: normal;
 }
