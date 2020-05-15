@@ -1,6 +1,8 @@
 body{
     font-family:  'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 
     'Lucida Grande', Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    background-color: blue;
 }
 
 a{
@@ -13,16 +15,11 @@ a{
   }
 
 .login{
-    float: left;
+    
     width: 50%;
-    height: 100%;
-    position: relative;
+    min-height: 100vh;
 }
 
-.first-layout{
-  height: 100%;
-  width: 100%;
-}
 
 button {
     display: block;
